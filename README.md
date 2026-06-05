@@ -4,7 +4,7 @@
 Bhargav Aher
 
 ## Contents
-- Answers.md
+- Answers.txt
 - Command_Output.txt
 - Network_Diagram.png
 - Screenshots
